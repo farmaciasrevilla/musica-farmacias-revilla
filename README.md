@@ -1,4 +1,13 @@
-# musica-farmacias-revilla
-Listas de Música Oficiales de Farmacias Revilla
-Tres listados oficiales para Farmacias Revilla, cada uno con más de 12 horas de reproducción programada, organizados por bloques: mañana suave, mediodía/tarde con energía ligera y cierre más calmado.
-La selección sigue el criterio recomendado para farmacias y espacios de salud: música suave, discreta, constante, sin sobresaltos, con estilos como ambient, instrumental relajante, chill, piano y electrónica calmada. Este tipo de ambientación ayuda a mejorar la experiencia del paciente/cliente y también puede contribuir a preservar la privacidad de las conversaciones en el mostrador.
+# Listas oficiales para Farmacias Revilla
+
+Sitio estático para GitHub Pages.
+
+## Uso principal
+Abrir desde navegador los enlaces `.html` de cada lista. Estos enlaces ejecutan un reproductor web con controles multimedia, Media Session API, reinicio automático por pista y compatibilidad PWA.
+
+## Alternativas
+- `.wpl`: alternativa para PC con Windows Media Player.
+- `.m3u`: alternativa para VLC u otros reproductores.
+
+## Publicación
+Subir todos los archivos a la raíz del repositorio `musica-farmacias-revilla` y activar GitHub Pages desde la rama `main`, carpeta `/(root)`.
