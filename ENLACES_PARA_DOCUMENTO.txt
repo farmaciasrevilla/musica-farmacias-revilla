@@ -1,0 +1,15 @@
+INSTRUCCION IMPORTANTE:
+Estos enlaces quedan universales cuando la carpeta se sube a un alojamiento web publico.
+Despues de subir la carpeta, sustituya https://SU-SITIO-PUBLICO/ por la direccion publica entregada por el servicio.
+
+Lista oficial para Farmacias Revilla original 1
+https://SU-SITIO-PUBLICO/lista-farmacias-revilla-original-1.html
+
+Lista oficial para Farmacias Revilla original 2
+https://SU-SITIO-PUBLICO/lista-farmacias-revilla-original-2.html
+
+Lista oficial para Farmacias Revilla original 3
+https://SU-SITIO-PUBLICO/lista-farmacias-revilla-original-3.html
+
+Enlace general a las tres listas
+https://SU-SITIO-PUBLICO/index.html
