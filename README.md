@@ -11,3 +11,4 @@ Abrir desde navegador los enlaces `.html` de cada lista. Estos enlaces ejecutan 
 
 ## Publicación
 Subir todos los archivos a la raíz del repositorio `musica-farmacias-revilla` y activar GitHub Pages desde la rama `main`, carpeta `/(root)`.
+Actualización del reproductor web principal para Farmacias Revilla
